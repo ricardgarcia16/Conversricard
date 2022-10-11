@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Conversor Ricard</string>
+
+    <string-array name="unitats">
+
+        <item>Segons</item>
+        <item>Minuts</item>
+        <item>Hores</item>
+        <item>Dies</item>
+
+    </string-array>
+    <string name="titol">Time converter</string>
+    <string name="valor_resultat">Result</string>
+    <string name="llista_resultats">Results list</string>
+    <string name="introduir_valor">Input the value</string>
+    <string name="segons">Seconds</string>
+    <string name="minuts">Minutes</string>
+    <string name="hores">Hours</string>
+    <string name="dies">Days</string>
+
+
+</resources>
